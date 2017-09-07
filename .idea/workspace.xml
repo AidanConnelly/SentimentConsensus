@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b20d0c2f-932e-4f66-87f8-21c2177ca70e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/BoosterWordList.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/Dictionary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/EmoticonLookupTable.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/FilmAddition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/IdiomLookupTable.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/IronyTerms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/MobilePhoneAddition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/MusicAddition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/NegatingWordList.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/PoliticsAddition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/QuestionWords.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/RiotsAddition.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/SentimentLookupTable.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sentistrength/SentStrength_Data_December2015English/SlangLookupTable.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/forward_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters11_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters16_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters1_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters21_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters26_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters31_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters36_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters41_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters46_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/exp_polarity.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/gate_default" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/intensifiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/markup.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/sent_rule.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/sent_subj.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/subjcluesSentenceClassifiersOpinionFinderJune06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/subjclueslen1polar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/database/docs/marktwain/letters6_auto_anns/valenceshifters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/lexicons/intensifiers.tff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/lexicons/subjcluesSentenceClassifiersOpinionFinderJune06.tff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/lexicons/subjclueslen1polar.tff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/lexicons/valenceshifters.tff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/lib/stanford-postagger.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/lib/weka.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/english-left3words-distsim.tagger" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/english-left3words-distsim.tagger.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/exp_polarity.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/exp_polarity_header.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/sent_subj.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/abandon#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/abandon#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/abide#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/abide#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/abuse#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/abuse#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/active#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/active#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/actually#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/actually#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/admit#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/admit#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/affect#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/affect#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/agreement#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/agreement#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/altogether#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/altogether#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/amaze#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/amaze#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/anyway#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/anyway#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/appear#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/appear#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/approval#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/approval#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/argument#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/argument#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/assassinate#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/assassinate#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/attack#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/attack#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/back#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/back#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/benefit#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/benefit#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/blast#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/blast#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/blind#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/blind#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/blood#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/blood#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/bother#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/bother#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/brilliant#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/brilliant#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/bum#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/bum#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/burden#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/burden#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/challenge#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/challenge#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/claim#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/claim#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/collaborate#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/collaborate#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/complete#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/complete#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/completely#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/completely#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/concern#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/concern#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/confront#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/confront#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/consume#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/consume#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/crime#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/crime#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/deaf#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/deaf#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/decide#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/decide#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/decline#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/decline#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/deep#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/deep#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/defeat#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/defeat#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/defend#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/defend#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/demand#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/demand#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/destroy#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/destroy#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/difference#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/difference#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/difficulty#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/difficulty#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/dirty#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/dirty#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/discrimination#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/discrimination#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/enemy#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/enemy#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/engage#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/engage#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/enjoy#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/enjoy#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/expression#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/expression#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/extreme#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/extreme#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/faithful#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/faithful#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/fatigue#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/fatigue#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/feeling#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/feeling#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/finally#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/finally#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/fine#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/fine#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/fit#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/fit#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/force#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/force#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/free#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/free#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/friendly#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/friendly#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/gain#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/gain#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/generous#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/generous#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/giant#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/giant#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/giant#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/giant#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/graceful#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/graceful#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/high#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/high#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/hot#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/hot#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/important#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/important#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/influence#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/influence#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/interest#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/interest#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/isolate#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/isolate#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/judgment#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/judgment#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/look#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/look#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/lose#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/lose#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/mean#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/mean#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/miss#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/miss#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/modest#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/modest#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/most#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/most#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/natural#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/natural#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/nature#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/nature#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/need#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/need#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/oblique#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/oblique#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/odd#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/odd#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/offensive#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/offensive#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/open#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/open#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/opinion#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/opinion#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/particularly#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/particularly#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/peace#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/peace#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/peaceful#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/peaceful#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/perfect#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/perfect#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/point#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/point#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/poor#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/poor#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/position#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/position#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/pressure#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/pressure#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/promise#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/promise#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/quick#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/quick#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/radical#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/radical#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/rather#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/rather#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/reaction#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/reaction#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/ready#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/ready#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/real#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/real#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/reason#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/reason#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/regard#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/regard#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/remark#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/remark#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/respect#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/respect#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/responsibility#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/responsibility#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/restraint#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/restraint#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/right#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/right#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/sense#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/sense#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/shelter#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/shelter#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/show#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/show#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/significant#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/significant#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/simple#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/simple#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/slight#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/slight#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/solemn#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/solemn#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/solid#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/solid#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/spade#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/spade#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/stand#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/stand#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/stress#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/stress#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/strike#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/strike#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/struggle#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/struggle#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/suffer#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/suffer#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/suppose#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/suppose#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/tension#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/tension#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/threat#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/threat#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/too#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/too#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/try#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/try#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/ultimate#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/ultimate#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/violate#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/violate#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/violation#n.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/violation#n.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/violent#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/violent#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/vital#j.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/vital#j.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/well#r.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/well#r.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/work#v.arff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/models/swsd/work#v.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opinionfinderv2.0/test.doclist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Analyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Main2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Main3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/SentiStrengthAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Sentiment140Analyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/StandfordNLPAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Tweet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/Writer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/classification.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/resp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/sentiment140TweetCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/uClassifySentimentAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/uClassifyTweetCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Plymouth sentiment consensus/com/company/vaderSentimentAnalyser.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/SentiStrengthAnalyser.java" afterPath="$PROJECT_DIR$/src/com/company/SentiStrengthAnalyser.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Plymouth_sentiment_consensus$Main.coverage" NAME="Main Coverage Results" MODIFIED="1498902578030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Plymouth sentiment consensus" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentiStrengthAnalyser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SentiStrengthAnalyser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="96" lean-forward="false" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sentiment140Analyser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Sentiment140Analyser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uClassifyTweetCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/uClassifyTweetCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Writer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Writer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StandfordNLPAnalyser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/StandfordNLPAnalyser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vaderSentimentAnalyser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/vaderSentimentAnalyser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uClassifySentimentAnalyser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/uClassifySentimentAnalyser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/resp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentiment140TweetCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/sentiment140TweetCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>catch</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/Plymouth sentiment consensus.iml" />
+        <option value="$PROJECT_DIR$/src/com/company/Main3.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Analyser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/uClassifyStrengtgAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Sentiment140Analyser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/uClassifyTweetCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Writer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StandfordNLPAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/vaderSentimentAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/uClassifySentimentAnalyser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/sentiment140TweetCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SentiStrengthAnalyser.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plymouth sentiment consensus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sentistrength" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stanford-corenlp-full-2017-06-09" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aidan\IdeaProjects\Plymouth sentiment consensus\Sentistrength" />
+      <recent name="C:\Users\aidan\IdeaProjects\Plymouth sentiment consensus" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Plymouth sentiment consensus" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Plymouth sentiment consensus" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Main3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Plymouth sentiment consensus" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Plymouth sentiment consensus" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main3" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20d0c2f-932e-4f66-87f8-21c2177ca70e" name="Default" comment="" />
+      <created>1498319356977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498319356977</updated>
+      <workItem from="1498319361352" duration="1003000" />
+      <workItem from="1498320394970" duration="1035000" />
+      <workItem from="1498720469527" duration="3241000" />
+      <workItem from="1498735025663" duration="2244000" />
+      <workItem from="1498897520545" duration="7268000" />
+      <workItem from="1498987744687" duration="1261000" />
+      <workItem from="1499114101076" duration="1237000" />
+      <workItem from="1499325650029" duration="12937000" />
+      <workItem from="1499354143122" duration="323000" />
+      <workItem from="1499354508798" duration="81000" />
+      <workItem from="1499841404648" duration="1024000" />
+      <workItem from="1499893418967" duration="313000" />
+      <workItem from="1499936138051" duration="2857000" />
+      <workItem from="1499953353562" duration="50000" />
+      <workItem from="1500197135681" duration="460000" />
+      <workItem from="1500529593084" duration="637000" />
+      <workItem from="1500712592802" duration="9544000" />
+      <workItem from="1501172990693" duration="1013000" />
+      <workItem from="1501282022601" duration="599000" />
+      <workItem from="1501321520089" duration="2427000" />
+      <workItem from="1501336048821" duration="3076000" />
+      <workItem from="1501405367923" duration="2046000" />
+      <workItem from="1503508998014" duration="4535000" />
+      <workItem from="1503558427794" duration="1388000" />
+      <workItem from="1503560486008" duration="5263000" />
+      <workItem from="1503585844191" duration="5605000" />
+      <workItem from="1503692394252" duration="13493000" />
+      <workItem from="1503742711317" duration="6219000" />
+      <workItem from="1503754373869" duration="959000" />
+      <workItem from="1503993886291" duration="464000" />
+      <workItem from="1503997295471" duration="2015000" />
+      <workItem from="1504187716441" duration="996000" />
+      <workItem from="1504593267033" duration="1611000" />
+      <workItem from="1505235784272" duration="1660000" />
+      <workItem from="1505379765758" duration="3143000" />
+      <workItem from="1505467350966" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102810000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21503131" sideWeight="0.44375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58246344" sideWeight="0.6671875" order="2" side_tool="false" content_ui="tabs" x="1536" y="740" width="1412" height="203" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19765739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27453026" sideWeight="0.55625" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277635" sideWeight="0.47291666" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4048843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21503131" sideWeight="0.44375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32254696" sideWeight="0.55625" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277635" sideWeight="0.47291666" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09566185" sideWeight="0.6671875" order="2" side_tool="false" content_ui="tabs" x="1536" y="740" width="1412" height="203" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main3.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/uClassifySentimentAnalyser.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Writer.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((BasicHttpResponse)response).statusline" custom="org.apache.http.message.BasicHttpResponse" />
+        <watch expression="((BasicHttpParams)((ClientParamsStack)((BasicHttpResponse)response).params).requestParams).parameters" custom="org.apache.http.message.BasicHttpResponse,org.apache.http.impl.client.ClientParamsStack,org.apache.http.params.BasicHttpParams" />
+        <watch expression="e" language="JAVA" />
+        <watch expression="e" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/preprocessor/PreProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/entity/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6885">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="50" column="12" lean-forward="false" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/main/RunOpinionFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3961">
+          <caret line="233" column="15" lean-forward="false" selection-start-line="233" selection-start-column="15" selection-end-line="233" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/preprocessor/PreProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/entity/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6613">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6613">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6885">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6885">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar!/twitter4j/StatusStreamBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9725">
+          <caret line="405" column="0" lean-forward="false" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/entity/Sentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/main/RunOpinionFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4600">
+          <caret line="233" column="15" lean-forward="false" selection-start-line="233" selection-start-column="15" selection-end-line="233" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/opinionfinderv2.0/opinionfinder.jar!/opin/preprocessor/PreProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plymouth sentiment consensus.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-sources.jar!/edu/stanford/nlp/neural/rnn/RNNCoreAnnotations.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Analyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-sources.jar!/edu/stanford/nlp/pipeline/StanfordCoreNLP.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Tweet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1534" column="0" lean-forward="false" selection-start-line="1534" selection-start-column="0" selection-end-line="1534" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/zip/Inflater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="401" column="23" lean-forward="false" selection-start-line="401" selection-start-column="23" selection-end-line="401" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/nio/file/StandardOpenOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Sentistrength/SentiStrengthCom.jar!/uk/ac/wlv/sentistrength/Paragraph.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Sentistrength/SentiStrengthCom.jar!/uk/ac/wlv/sentistrength/SentiStrength.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="654" column="0" lean-forward="false" selection-start-line="654" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="218" column="23" lean-forward="false" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/uClassifyTweetCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sentiment140TweetCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/resp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/vaderSentimentAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SentiStrengthAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="96" lean-forward="false" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Sentiment140Analyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/uClassifySentimentAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/StandfordNLPAnalyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Plymouth sentiment consensus</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.twitter4j:twitter4j-core:4.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
